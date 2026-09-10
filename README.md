@@ -40,7 +40,7 @@ I'm **Fahad Hussain**, the founder and builder behind **NexusNova** — a growin
 
 | Product | What it delivers |
 | --- | --- |
-| 🌐 **[NexusNova Web](https://nexusnovatools.com)** | Practical online tools and utilities in one growing platform |
+| 🌐 **[NexusNova Web](https://nexusnovatools.com)** | Practical online tools plus **NexusNova HumanProof** — a privacy-first human-approval layer for sensitive digital actions that binds approval to the exact action and produces a clear, auditable verification result. |
 | 📱 **[NexusNova Android](https://github.com/fahadsoomro123/nexusnova-app)** | Mobile-first utilities and polished everyday app experiences |
 | 🤖 **NexusNova AI** | AI-assisted tools, smart workflows and automation experiences |
 | ⚡ **NexusNova Automation** | GitHub, Cloudflare and connected-service workflows for reliable delivery |
