@@ -47,6 +47,14 @@ I'm **Fahad Hussain**, the founder and builder behind **NexusNova** — a growin
 
 <div align="center">
 
+<a href="https://nexusnovatools.com">
+  <img src="./assets/humanproof-flagship-card-v11-compact.jpg" width="440" alt="NexusNova HumanProof Flagship Verified Action Credential" />
+</a>
+
+<sub><b>NexusNova HumanProof — Flagship Verified Action Credential</b> • Design preview, not a live receipt</sub>
+
+<br/><br/>
+
 [![Open Website](https://img.shields.io/badge/OPEN_NEXUSNOVA-WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexusnovatools.com)
 [![Explore Android](https://img.shields.io/badge/EXPLORE-ANDROID_PROJECT-16A34A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahadsoomro123/nexusnova-app)
 
