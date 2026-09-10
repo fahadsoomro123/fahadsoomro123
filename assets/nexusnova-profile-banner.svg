@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fahad Hussain — NexusNova</title>
+  <desc id="desc">Flagship GitHub profile banner for Fahad Hussain, builder of NexusNova</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.48" stop-color="#0C1224"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 80) rotate(38) scale(470 300)">
+      <stop stop-color="#7C3AED" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 260) rotate(180) scale(430 260)">
+      <stop stop-color="#06B6D4" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="280" y1="0" x2="900" y2="0">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset=".52" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glowB)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="29" fill="none" stroke="#FFFFFF" stroke-opacity=".10"/>
+
+  <g opacity=".42">
+    <circle cx="1050" cy="74" r="52" fill="#2563EB" filter="url(#soft)"/>
+    <circle cx="990" cy="250" r="65" fill="#7C3AED" filter="url(#soft)"/>
+  </g>
+
+  <g transform="translate(74 77)">
+    <rect width="88" height="88" rx="24" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".14"/>
+    <path d="M27 62V26h10l25 23V26h10v36H62L37 39v23H27Z" fill="url(#accent)"/>
+  </g>
+
+  <text x="190" y="116" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-.8">Fahad Hussain</text>
+  <text x="191" y="158" fill="#A5B4FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">FOUNDER • BUILDER • NEXUSNOVA</text>
+  <rect x="190" y="184" width="570" height="3" rx="2" fill="url(#accent)"/>
+  <text x="190" y="226" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">AI utilities • Android experiences • Web tools • Automation</text>
+  <text x="190" y="269" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">nexusnovatools.com</text>
+
+  <g transform="translate(875 104)">
+    <rect width="242" height="126" rx="24" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".10"/>
+    <text x="28" y="42" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">BUILDING</text>
+    <text x="28" y="76" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800">NexusNova</text>
+    <text x="28" y="104" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Useful tech. Clean experience.</text>
+  </g>
+
+  <g opacity=".38" fill="#FFFFFF">
+    <circle cx="1128" cy="42" r="2"/><circle cx="1096" cy="62" r="1.5"/><circle cx="1048" cy="42" r="1.5"/>
+    <circle cx="1012" cy="302" r="2"/><circle cx="1074" cy="310" r="1.5"/><circle cx="1148" cy="287" r="1.5"/>
+  </g>
+</svg>
