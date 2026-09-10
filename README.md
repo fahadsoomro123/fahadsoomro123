@@ -48,10 +48,11 @@ I'm **Fahad Hussain**, the founder and builder behind **NexusNova** — a growin
 <div align="center">
 
 <a href="https://nexusnovatools.com">
-  <img src="./assets/humanproof-flagship-card-v11-compact.jpg" width="440" alt="NexusNova HumanProof Flagship Verified Action Credential" />
+  <img src="./assets/humanproof-v11-badge-clean.jpg" width="190" alt="NexusNova HumanProof Verified Action badge" />
 </a>
 
-<sub><b>NexusNova HumanProof — Flagship Verified Action Credential</b> • Design preview, not a live receipt</sub>
+<br/>
+<sub><b>HumanProof Verified Action</b> • flagship design preview</sub>
 
 <br/><br/>
 
